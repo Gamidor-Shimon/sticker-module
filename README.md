@@ -25,7 +25,7 @@
 ## מבנה תקיות
 
 ```
-motorized-stage/
+Sticker Module/
 ├── firmware/
 │   └── MotorizedStage.ino
 ├── controller/
